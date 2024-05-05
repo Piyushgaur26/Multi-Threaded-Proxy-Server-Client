@@ -8,7 +8,7 @@ This project is implemented using `C` and Parsing of HTTP referred from <a href 
 
 ##### Basic Working Flow of the Proxy Server:
 
-![](https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient/blob/main/pics/UML.JPG)
+![](./pics/UML.JPG)
 
 ##### How did we implement Multi-threading?
 
@@ -65,7 +65,7 @@ $ ./proxy <port no.>
 
 ## Demo
 
-![](https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient/blob/main/pics/cache.png)
+![](./pics/cache.png)
 
 - When website is opened for the first time (`url not found`) then cache will be miss.
 - Then if you again open that website again then `Data is retrieved from the cache` will be printed.
